@@ -1,0 +1,13 @@
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\AXOLOTL_PC_CLEANER.File_Explorer.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\AXOLOTL_PC_CLEANER.Main.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\AXOLOTL_PC_CLEANER.Settings.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\AXOLOTL PC CLEANER.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\AXOLOTL PC CLEANER.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\bin\Debug\Axolotl PC Cleaner.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\bin\Debug\Axolotl PC Cleaner.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\bin\Debug\Axolotl PC Cleaner.pdb
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\AXOLOTL PC CLEANER.vbproj.CopyComplete
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\Axolotl PC Cleaner.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\AXOLOTL PC CLEANER\obj\Debug\Axolotl PC Cleaner.pdb
